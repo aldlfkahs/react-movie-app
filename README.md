@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+완성된 페이지는 [여기](https://aldlfkahs.github.io/react-movie-app/)를 클릭!  
 
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
